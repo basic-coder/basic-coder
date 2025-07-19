@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web RTC, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rho-gray-89.vercel.app/](https://portfolio-rho-gray-89.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-rho-gray-89.vercel.app/](https://bhavesh-sakpal.vercel.app)
 
 - 💬 Ask me about **React, Python**
 
